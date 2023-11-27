@@ -12,3 +12,16 @@
 7. Update the pipeline 
 8. Update the main.py
 9. Update the app.py
+
+## steps performed:
+Created a Repository In Github Account
+Created Structure Using Template.py
+Implemented Setup.py
+Created Logging methods
+Created Data Ingestion
+Created Data Validation
+
+01:19:29 Data Transformation
+01:29:13 Model Trainer
+01:59:24 Prediction Pipeline
+02:12:53 Deployment In EC2 with app runner
