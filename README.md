@@ -25,3 +25,6 @@ Done Data Transformation
 01:29:13 Model Trainer
 01:59:24 Prediction Pipeline
 02:12:53 Deployment In EC2 with app runner
+
+Reference:
+Krish Naik
