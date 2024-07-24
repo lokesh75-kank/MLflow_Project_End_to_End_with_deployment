@@ -14,17 +14,16 @@
 9. Update the app.py
 
 ## steps performed:
-Created a Repository In Github Account
 Created Structure Using Template.py
-Implemented Setup.py
-Created Logging methods
-Created Data Ingestion
-Created Data Validation
-Done Data Transformation
+- Implemented Setup.py
+- Created Logging methods
+- Created Data Ingestion
+- Created Data Validation
+= Done Data Transformation
 
-01:29:13 Model Trainer
-01:59:24 Prediction Pipeline
-02:12:53 Deployment In EC2 with app runner
+- Model Trainer
+- Prediction Pipeline
+- Deployment In EC2 with app runner
 
 Reference:
 Krish Naik
